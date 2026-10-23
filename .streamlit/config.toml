@@ -1,0 +1,8 @@
+[client]
+showErrorDetails = "none"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+runOnSave = true
